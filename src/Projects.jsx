@@ -12,7 +12,7 @@ function Projects() {
                                           </h2>
                                           <div className="col-md-6 mb-3">
                                                 <a href="https://journeygem.onrender.com/listings" target="_blank" rel="noopener noreferrer">
-                                                      <Cards hs="Full Stack Travellind Website" imgSrc="image.png"
+                                                      <Cards hs="Full Stack Travelling Website" imgSrc="image.png"
                                                             description="Developed a full-stack travel website using the MERN stack with RESTful APIs, user authentication, interactive maps, and review features to enhance user experience." />
                                                 </a>
                                           </div>
