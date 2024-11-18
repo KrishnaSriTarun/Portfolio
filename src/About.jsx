@@ -48,7 +48,7 @@ const About = () => {
                         </div>
                   </div>
                   <div className="download mb-5">
-                        <a href="/Krishna-Sri-Tarun-Resume.pdf" download className="btn">Resume<DownloadIcon /></a>
+                        <a href="Krishna-Sri-Tarun-Resume.pdf" target="_blank" className="btn">Resume<DownloadIcon /></a>
                   </div>
             </section>
       );

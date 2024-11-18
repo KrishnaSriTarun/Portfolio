@@ -34,7 +34,7 @@ function Projects() {
                                                 <span className="border-b-4 border-amber-400 rounded-sm">Minor Projects</span>
                                           </h2>
                                           <div className="col-md-6 mb-3">
-                                                <a href="https://krishnasritarun.github.io/Simon-Says-Game/" target="_blank" rel="noopener noreferrer">
+                                                <a href="https://simmongame.netlify.app/" target="_blank" rel="noopener noreferrer">
                                                       <Cards hs="Simon Says Game" imgSrc="Screenshot 2024-10-27 114312.png"
                                                             description='The "Simon Says Game" is an interactive memory game where players repeat an increasingly complex color sequence to test and improve memory skills.' />
                                                 </a>
@@ -49,6 +49,17 @@ function Projects() {
                                                 <a href="https://krishnasritarun.github.io/web/Netflix/index.html" target="_blank" rel="noopener noreferrer">
                                                       <Cards hs="Photographic Page" imgSrc="Screenshot 2024-10-28 125541.png"
                                                             description="The Netflix Clone is a basic webpage that replicates Netflix's layout, including sections for features like unlimited streaming, device compatibility, and offline downloads, along with a subscription prompt and FAQ." />
+                                                </a>
+                                          </div>
+                                    </div>
+                                    <div className="row m-1">
+                                          <h2 className="about-head text-white font-bold text-3xl pl-5 mb-5">
+                                                <span className="border-b-4 border-amber-400 rounded-sm">Machine Learning Projects</span>
+                                          </h2>
+                                          <div className="col-md-6 mb-3">
+                                                <a href="" target="_blank" rel="noopener noreferrer">
+                                                      <Cards hs="ChatBot Application" imgSrc="Scout.webp"
+                                                            description='"Scout" is a Python virtual assistant for voice commands, offering web searches, time, music control, and system management.' />
                                                 </a>
                                           </div>
                                     </div>
