@@ -17,6 +17,12 @@ function Projects() {
                                                 </a>
                                           </div>
                                           <div className="col-md-6 mb-3">
+                                                <a href="https://talk-8oti.onrender.com/talk" target="_blank" rel="noopener noreferrer">
+                                                      <Cards hs="School Management System" imgSrc="Screenshot 2025-02-07 094514.png"
+                                                            description="A personal blog featuring various posts, images, and videos, including content related to festivals, temples, and test posts." />
+                                                </a>
+                                          </div>
+                                          <div className="col-md-6 mb-3">
                                                 <a href="https://weatherappna.netlify.app/" target="_blank" rel="noopener noreferrer">
                                                       <Cards hs="Weather Forecast" imgSrc="Screenshot 2024-10-27 114452.png"
                                                             description="Created a responsive weather forecast website with React.js, integrating a Web API for real-time weather data and a search feature, with a modern UI designed using React MUI." />
@@ -57,7 +63,7 @@ function Projects() {
                                                 <span className="border-b-4 border-amber-400 rounded-sm">Machine Learning Projects</span>
                                           </h2>
                                           <div className="col-md-6 mb-3">
-                                                <a href="" target="_blank" rel="noopener noreferrer">
+                                                <a href="https://github.com/KrishnaSriTarun/ChatBot" target="_blank" rel="noopener noreferrer">
                                                       <Cards hs="ChatBot Application" imgSrc="Scout.webp"
                                                             description='"Scout" is a Python virtual assistant for voice commands, offering web searches, time, music control, and system management.' />
                                                 </a>

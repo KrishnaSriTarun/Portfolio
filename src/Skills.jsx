@@ -35,17 +35,17 @@ function Skills() {
                   </h2>
                   <div className="container mb-3">
                         <div className="row">
-                              <div className="col-md-6 mb-3">
+                              <div className="col-md-6 mb-3"><a href="https://drive.google.com/file/d/1wPI4U3ZDwMNDaXg8qKgYh9KsDmSSJShA/view?usp=drive_link" target="_blank" rel="noreferrer noopener">
                                     <div className="card d-flex font-medium align-items-center text-white p-3">
                                           <h2 className="text-lg mb-2">Machine learning</h2>
                                           <p className="text-gray-300 align-items-center">IIIT Hyderabad</p>
-                                    </div>
+                                    </div></a>
                               </div>
-                              <div className="col-md-6 mb-3">
+                              <div className="col-md-6 mb-3"><a href="https://drive.google.com/file/d/1gtkhKe0MN2mjl6wv5eZqKxGK8FExZ8GM/view?usp=drive_link" target="_blank" rel="noreferrer noopener">
                                     <div className="card d-flex font-medium align-items-center text-white p-3">
                                           <h2 className="text-lg mb-2">Web Development</h2>
                                           <p className="text-gray-300 align-items-center">Apna College</p>
-                                    </div>
+                                    </div></a>
                               </div>
                               <div className="col-md-6 mb-3">
                                     <div className="card d-flex font-medium align-items-center text-white p-3">
