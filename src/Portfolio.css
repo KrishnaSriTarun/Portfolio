@@ -6,7 +6,7 @@
                   hsla(240, 1%, 18%, 0.251) 0%,
                   hsla(240, 2%, 11%, 0) 100%), hsl(240, 2%, 13%);
       --bg-gradient-yellow-1: linear-gradient(to bottom right,
-                  hsl(45, 100%, 71%) 0%,
+                  hsl(195, 90%, 59%) 0%,
                   hsla(36, 100%, 69%, 0) 50%);
       --bg-gradient-yellow-2: linear-gradient(135deg,
                   hsla(45, 100%, 71%, 0.251) 0%,
@@ -15,8 +15,8 @@
                   hsl(0, 0%, 25%) 0%,
                   hsla(0, 0%, 25%, 0) 50%);
       --text-gradient-yellow: linear-gradient(to right,
-                  hsl(45, 100%, 72%),
-                  hsl(35, 100%, 68%));
+                  hsl(195, 90%, 59%),
+                  hsl(195, 90%, 59%));
 
       /* solid */
 
@@ -27,8 +27,8 @@
       --smoky-black: hsl(0, 0%, 7%);
       --white-1: hsl(0, 0%, 100%);
       --white-2: hsl(0, 0%, 98%);
-      --orange-yellow-crayola: hsl(45, 100%, 72%);
-      --vegas-gold: hsl(45, 54%, 58%);
+      --orange-yellow-crayola: hsl(194, 85%, 61%);
+      --vegas-gold: hsl(195, 90%, 59%);
       --light-gray: hsl(0, 0%, 84%);
       --light-gray-70: hsla(0, 0%, 84%, 0.7);
       --bittersweet-shimmer: hsl(0, 43%, 51%);
@@ -186,7 +186,7 @@ img {
 
 .icon_bottom:hover,
 .leet_code_icon:hover {
-      color: rgb(251 191 36);
+      color: rgb(52, 182, 230);
       /* filter: drop-shadow(0 0 3px rgb(246, 246, 245)); */
 }
 
@@ -295,7 +295,7 @@ img {
             background-color: rgba(56, 56, 56, 0.684);
             padding: 16px;
             width: 100%;
-            color: rgb(246, 212, 77);
+            color: rgb(67, 195, 227);
             border-top-right-radius: 12px;
             border-bottom-left-radius: 12px;
       }
@@ -430,7 +430,7 @@ img {
 }
 
 .btn {
-      background-color: rgb(246, 212, 77) !important;
+      background-color: rgb(82, 206, 231) !important;
       border: none !important;
       padding: 10px !important;
 }

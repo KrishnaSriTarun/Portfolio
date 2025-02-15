@@ -28,10 +28,10 @@ function Skills() {
       return (
             <section id="skills" className="mx-5">
                   <h2 className="about-head text-white font-bold text-4xl pl-5 mb-5">
-                        <span className="border-b-4 border-amber-400 rounded-sm">Skills</span>
+                        <span className="border-b-4 border-sky-400 rounded-sm">Skills</span>
                   </h2>
                   <h2 className="about-head text-white font-semibold text-2xl pl-5 mb-5">
-                        <span className="border-b-2 border-amber-400">Certifications</span>
+                        <span className="border-b-2 border-sky-400">Certifications</span>
                   </h2>
                   <div className="container mb-3">
                         <div className="row">
@@ -59,7 +59,7 @@ function Skills() {
                   </div>
                   {/* Languages */}
                   <h2 className="about-head text-white font-semibold text-2xl pl-5 mb-5">
-                        <span className="border-b-2 border-amber-400">Languages</span>
+                        <span className="border-b-2 border-sky-400">Languages</span>
                   </h2>
                   <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-5 items-center justify-center">
                         <div className="icons flex flex-col items-center text-center shadow-[0px_0px_8px_0px_rgba(255,255,255,0.5)] hover:shadow-[0px_0px_15px_0px_rgba(255,255,255,0.7)] rounded-xl px-5 py-2 transition-transform transform hover:scale-105">
@@ -90,7 +90,7 @@ function Skills() {
 
                   {/* Frameworks */}
                   <h2 className="about-head text-white font-semibold text-2xl pl-5 mb-5 mt-10">
-                        <span className="border-b-2 border-amber-400">Frameworks</span>
+                        <span className="border-b-2 border-sky-400">Frameworks</span>
                   </h2>
                   <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-5 items-center justify-center">
                         <div className="icons flex flex-col items-center text-center shadow-[0px_0px_8px_0px_rgba(255,255,255,0.5)] hover:shadow-[0px_0px_15px_0px_rgba(255,255,255,0.7)] rounded-xl px-5 py-2 transition-transform transform hover:scale-105">
@@ -122,7 +122,7 @@ function Skills() {
 
                   {/* Tools */}
                   <h2 className="about-head text-white font-semibold text-2xl pl-5 mb-5 mt-10">
-                        <span className="border-b-2 border-amber-400">Tools</span>
+                        <span className="border-b-2 border-sky-400">Tools</span>
                   </h2>
                   <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-5 items-center justify-center">
                         <div className="icons flex flex-col items-center text-center shadow-[0px_0px_8px_0px_rgba(255,255,255,0.5)] hover:shadow-[0px_0px_15px_0px_rgba(255,255,255,0.7)] rounded-xl px-5 py-2 transition-transform transform hover:scale-105">
@@ -152,7 +152,7 @@ function Skills() {
                   </div>
                   {/* Technologies */}
                   <h2 className="about-head text-white font-semibold text-2xl pl-5 mb-5 mt-10">
-                        <span className="border-b-2 border-amber-400">Technologies</span>
+                        <span className="border-b-2 border-sky-400">Technologies</span>
                   </h2>
                   <div className="flex items-center ml-5">
                         <div className="icons flex flex-col items-center text-center shadow-[0px_0px_8px_0px_rgba(255,255,255,0.5)] hover:shadow-[0px_0px_15px_0px_rgba(255,255,255,0.7)] rounded-xl px-5 py-2 transition-transform transform hover:scale-105">

@@ -8,7 +8,7 @@ function Projects() {
                               <div className="container mb-3">
                                     <div className="row m-1">
                                           <h2 className="about-head text-white font-bold text-4xl pl-5 mb-5">
-                                                <span className="border-b-4 border-amber-400 rounded-sm">Mern Projects</span>
+                                                <span className="border-b-4 border-sky-400 rounded-sm">Mern Projects</span>
                                           </h2>
                                           <div className="col-md-6 mb-3">
                                                 <a href="https://journeygem.onrender.com/listings" target="_blank" rel="noopener noreferrer">
@@ -17,8 +17,8 @@ function Projects() {
                                                 </a>
                                           </div>
                                           <div className="col-md-6 mb-3">
-                                                <a href="https://talk-8oti.onrender.com/talk" target="_blank" rel="noopener noreferrer">
-                                                      <Cards hs="School Management System" imgSrc="Screenshot 2025-02-07 094514.png"
+                                                <a href="https://www.thetalk.org.in" target="_blank" rel="noopener noreferrer">
+                                                      <Cards hs="Social Media Website" imgSrc="Screenshot 2025-02-07 094514.png"
                                                             description="A personal blog featuring various posts, images, and videos, including content related to festivals, temples, and test posts." />
                                                 </a>
                                           </div>
@@ -37,7 +37,7 @@ function Projects() {
                                     </div>
                                     <div className="row m-1">
                                           <h2 className="about-head text-white font-bold text-3xl pl-5 mb-5">
-                                                <span className="border-b-4 border-amber-400 rounded-sm">Minor Projects</span>
+                                                <span className="border-b-4 border-sky-400 rounded-sm">Minor Projects</span>
                                           </h2>
                                           <div className="col-md-6 mb-3">
                                                 <a href="https://simmongame.netlify.app/" target="_blank" rel="noopener noreferrer">
@@ -60,7 +60,7 @@ function Projects() {
                                     </div>
                                     <div className="row m-1">
                                           <h2 className="about-head text-white font-bold text-3xl pl-5 mb-5">
-                                                <span className="border-b-4 border-amber-400 rounded-sm">Machine Learning Projects</span>
+                                                <span className="border-b-4 border-sky-400 rounded-sm">Machine Learning Projects</span>
                                           </h2>
                                           <div className="col-md-6 mb-3">
                                                 <a href="https://github.com/KrishnaSriTarun/ChatBot" target="_blank" rel="noopener noreferrer">

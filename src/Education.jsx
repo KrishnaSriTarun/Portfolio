@@ -11,7 +11,7 @@ function Education() {
                               <div className="icon-box">
                                     <SchoolIcon />
                               </div>
-                              <h3 className="h3 border-b-4 border-amber-400 rounded-sm">
+                              <h3 className="h3 border-b-4 border-sky-400 rounded-sm">
                                     Education
                               </h3>
                         </div>
@@ -53,7 +53,7 @@ function Education() {
                               <div className="icon-box">
                                     <ImportContactsIcon />
                               </div>
-                              <h3 className="h3 border-b-4 border-amber-400 rounded-sm">
+                              <h3 className="h3 border-b-4 border-sky-400 rounded-sm">
                                     Experience
                               </h3>
                         </div>
@@ -64,16 +64,16 @@ function Education() {
                                     Frontend Developer{" "}
                                     <span className=" text-xl">(GROWTHMATE INFO TECH SOFTWARE SOLUTION PRIVATE LIMITED)</span>
                               </h1>
-                              <span>11/2024 — 03/2025</span>
+                              <span>11/2024 — 02/2025</span>
                               <p className="text-base font-medium">
                                     As a Frontend Developer in the Java Full-Stack team, I bring hands-on experience from my role as a Full Stack Development Intern at Growthmate Infotech. I specialize in creating responsive and user-friendly interfaces using HTML, CSS, JavaScript, React.js, and Bootstrap. Currently, I am contributing to a Local Cable Network Project, combining backend logic with innovative frontend designs to deliver seamless web experiences.</p>
                         </li>
                         <li className="timeline-item">
                               <h1 className="about-head text-white font-semibold text-2xl">
                                     Teaching Assistant{" "}
-                                    <span className="text-xl">(Stealth Startup)</span>
+                                    <span className="text-xl">(Apna College)</span>
                               </h1>
-                              <span>09/2024 — 02/2025</span>
+                              <span>09/2024 — 01/2025</span>
                               <p className="text-base font-medium">
                                     Provided guidance to MERN stack developers, answering technical questions and troubleshooting issues, resulting in improved project development workflows and enhanced collaboration. Contributed innovative ideas to improve project functionality by leveraging insights gained from assisting fellow developers, resulting in more efficient and scalable solutions.
                               </p>
@@ -82,18 +82,9 @@ function Education() {
                               <h1 className="about-head text-white font-semibold text-2xl">
                                     Intern <span className="text-xl">(IIIT Hyderabad)</span>
                               </h1>
-                              <span>08/2023 — 07/2024</span>
+                              <span>05/2023 — 07/2024</span>
                               <p className="text-base font-medium">
                                     Developed a To-Do List application using Flask with efficient task management through CRUD operations and RESTful APIs. Enhanced the user interface with responsive design using HTML, CSS, and Bootstrap, ensuring a seamless experience across devices.
-                              </p>
-                        </li>
-                        <li className="timeline-item">
-                              <h1 className="about-head text-white font-semibold text-2xl">
-                                    Intern <span className="text-xl">(Bharath Internship)</span>
-                              </h1>
-                              <span>06/2024 — 07/2024</span>
-                              <p className="text-base font-medium">
-                                    Completed a 4-week virtual internship specializing in Python programming, where I exhibited advanced technical proficiency across diverse tasks and projects. Consistently commended for exceptional performance and significant contributions throughout the program.
                               </p>
                         </li>
                   </ol>

@@ -60,7 +60,7 @@
 #contact input:focus,
 #contact textarea:focus {
       outline: none;
-      border-color: #ffa726;
+      border-color: #37baea;
       box-shadow: 0 0 5px rgba(255, 165, 38, 0.5);
 }
 
@@ -70,7 +70,7 @@
       font-size: 1rem;
       font-weight: bold;
       color: #fff;
-      background-color: #ffa726;
+      background-color: #37baea;
       border: none;
       border-radius: 4px;
       cursor: pointer;
@@ -78,7 +78,7 @@
 }
 
 #contact button:hover {
-      background-color: #ff9800;
+      background-color: #37baea;
 }
 
 /* Responsive Styling */

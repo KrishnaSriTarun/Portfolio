@@ -5,7 +5,7 @@ const About = () => {
         <section id="about">
             <div>
                 <h2 className="about-head text-white font-bold text-3xl pl-5">
-                    <span className="border-b-4 border-amber-400 rounded-sm">
+                    <span className="border-b-4 border-sky-400 rounded-sm">
                         About Me
                     </span>
                 </h2>
@@ -15,7 +15,7 @@ const About = () => {
             </div>
 
             <h2 className="about-head text-white font-semibold text-2xl text-center pl-5 mb-3">
-                <span className="border-b-2 border-amber-400">Volunteer Experience</span>
+                <span className="border-b-2 border-sky-400">Volunteer Experience</span>
             </h2>
             <div className="container mb-5">
                 <div className="row">

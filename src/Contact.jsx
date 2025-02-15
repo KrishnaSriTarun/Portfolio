@@ -50,7 +50,7 @@ const Contact = () => {
       return (
             <section id="contact">
                   <h2 className="contact-heading">
-                        <span className="border-b-4 border-amber-400">Contact</span></h2>
+                        <span className="border-b-4 border-sky-400">Contact</span></h2>
                   <p>Feel free to reach out using the form below.</p>
 
                   {statusMessage && <p className="status-message">{statusMessage}</p>}
@@ -86,7 +86,7 @@ const Contact = () => {
                               required
                         ></textarea>
 
-                        <button type="submit" disabled={loading}>
+                        <button type="submit" className="border-sky-400" disabled={loading}>
                               {loading ? 'Sending...' : 'Send Message'}
                         </button>
                   </form>

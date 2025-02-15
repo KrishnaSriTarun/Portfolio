@@ -7,10 +7,10 @@
       display: flex;
       justify-content: space-around;
       align-items: center;
-      background-color: rgba(56, 56, 56, 0.684);
+      background-color: rgba(101, 100, 100, 0.684);
       padding: 16px;
       width: 60%;
-      color: rgb(246, 212, 77);
+      color: rgb(51, 178, 233);
       border-top-right-radius: 12px;
       border-bottom-left-radius: 12px;
 }
