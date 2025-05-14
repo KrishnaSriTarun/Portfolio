@@ -41,7 +41,7 @@ const About = () => {
 
             <div className="download mb-5">
                 <a
-                    href="Krishna Sri Tarun Resume.pdf"
+                    href="Krishna Sri Tarun.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn"
