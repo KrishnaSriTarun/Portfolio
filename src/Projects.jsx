@@ -8,7 +8,7 @@ function Projects() {
                               <div className="container mb-3">
                                     <div className="row m-1">
                                           <h2 className="about-head text-white font-bold text-4xl pl-5 mb-5">
-                                                <span className="border-b-4 border-sky-400 rounded-sm">Mern Projects</span>
+                                                <span className="border-b-4 border-sky-400 rounded-sm">Full Stack Projects</span>
                                           </h2>
                                           <div className="col-md-6 mb-3">
                                                 <a href="https://journeygem.onrender.com/listings" target="_blank" rel="noopener noreferrer">
@@ -20,6 +20,12 @@ function Projects() {
                                                 <a href="https://www.thetalk.org.in" target="_blank" rel="noopener noreferrer">
                                                       <Cards hs="Social Media Website" imgSrc="Screenshot 2025-02-07 094514.png"
                                                             description="A personal blog featuring various posts, images, and videos, including content related to festivals, temples, and test posts." />
+                                                </a>
+                                          </div>
+                                          <div className="col-md-6 mb-3">
+                                                <a href="https://github.com/KrishnaSriTarun/BillingStore" target="_blank" rel="noopener noreferrer">
+                                                      <Cards hs="Billing Management Application" imgSrc="Screenshot 2025-06-11 065439.png"
+                                                            description="A full‑stack billing and inventory management system built with Spring Boot, React.js, Bootstrap and Razorpay integration." />
                                                 </a>
                                           </div>
                                           <div className="col-md-6 mb-3">
